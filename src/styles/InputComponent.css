@@ -1,0 +1,28 @@
+@media only screen and (max-width: 1000px) {
+    .search-item-input {
+        width: 85% !important;
+    }
+}
+
+.search-input {
+    width: 500px;
+    border-radius: 25px;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    padding: 17px 20px;
+}
+
+.search-input:hover {
+    box-shadow: 0 1px 6px rgb(32 33 36 / 28%);
+    border-color: rgba(223,225,229,0);
+}
+
+.search-input:focus-visible {
+   outline: none;
+}
+
+@media screen and (device-aspect-ratio: 40/71) {
+    .search-item-input {
+        width: % !important;
+    }
+}

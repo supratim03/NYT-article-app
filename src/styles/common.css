@@ -1,0 +1,78 @@
+.sa-padding-top-20 {
+    padding-top: 20px;
+}
+
+.sa-padding-20 {
+    padding: 20px
+}
+
+.sa-inline-block {
+    display: inline-block;
+}
+
+.sa-padding-right-20 {
+    padding-right: 20px;
+}
+
+.sa-float-right {
+    float: right;
+}
+
+.sa-margin-right-10 {
+    margin-right: 10px;
+}
+
+.sa-cursor-pointer {
+    cursor: pointer;
+}
+
+.sa-fw-b {
+    font-weight: bold;
+}
+
+.sa-fc-black {
+    color: #000000;
+}
+
+.sa-fs-18 {
+    font-size: 18px;
+}
+
+.flexgrow-1 {
+    flex-grow: 1;
+}
+
+.flex-child-center {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.sa-align-center {
+    text-align: center;
+}
+
+.sa-padding-top-50 {
+    padding-top: 50px ;
+}
+
+.sa-fs-14 {
+    font-size: 14px;
+}
+
+.sa-fc-sub-color {
+    color: #666;
+}
+
+.sa-link {
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+.padding-10 {
+    padding: 10px;
+}
+
+.sa-padding-bottom-50 {
+    padding-bottom: 50px;
+}

@@ -1,0 +1,28 @@
+.article-view-wrapper {
+    padding: 200px !important;
+}
+
+.article-desc {
+    width: 75%;
+}
+
+.background-wrapper {
+    background: url("../assets/Background.png");
+    height: 100vh;
+}
+
+.vertical-center {
+    vertical-align: middle;
+}
+
+@media only screen and (max-width: 1000px) {
+    .article-view-wrapper {
+        padding-left: 20px !important;
+        padding-right: 20px !important;
+        padding-top: 150px !important;
+    }
+
+    .article-desc {
+        width: 100% !important;
+    }
+}
